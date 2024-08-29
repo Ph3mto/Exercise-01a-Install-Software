@@ -1,7 +1,7 @@
 # Exercise-01a-Install-Software
 My name is:
 
-Ian
+Ian Fernandez
 
 My github username is:
 
